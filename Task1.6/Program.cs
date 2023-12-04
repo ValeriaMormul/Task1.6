@@ -4,7 +4,7 @@ class Program
     static void Main()
     {
 
-        Console.WriteLine("23");
+        Console.WriteLine("Введіть начення: ");
         int number = int.Parse(Console.ReadLine());
         if (number % 2 == 0)
         {
